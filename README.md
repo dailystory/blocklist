@@ -1,4 +1,4 @@
-# What are keyword block lists
+# What are keyword block lists ⛔
 Key word blocklists contains specific words you are trying to avoid being associated with.
 
 - PPC ads running next to or associated with;
